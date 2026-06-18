@@ -20,7 +20,7 @@ It's built to keep you in control: it explains *why* (the part that doesn't surv
 Clone into your personal Claude skills directory:
 
 ```bash
-git clone https://github.com/jeraldkiew/claude-catch-up-skill.git ~/.claude/skills/catch-up
+git clone https://github.com/jeraldkiew/catch-up.git ~/.claude/skills/catch-up
 ```
 
 Then reload skills (`/reload-plugins`) or restart your Claude Code session.
