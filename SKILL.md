@@ -1,12 +1,12 @@
 ---
 name: catch-up
-description: Help a human engineer understand code that was recently written or changed (often by Claude) so they stay in control of code they didn't type. Use when the user asks to "catch up", "walk me through what changed", "explain these changes", "I lost track of what you did", or wants to review/understand recent edits, a diff, or a branch before committing, reviewing, or building on it.
+description: Help a human engineer understand code that was recently written or changed (often by Claude) so they stay in control of code they didn't type. Use when the user asks to "catch up", "walk me through what changed", "explain these changes", "I lost track of what you did", or wants to review/understand recent edits, a diff, or a branch before committing, reviewing, or building on it, or describes wanting to "pay down cognitive debt" from code generated faster than they could absorb.
 license: MIT
 ---
 
 # Catch Up
 
-Help a human rebuild their mental model of code that was just written or changed — usually by Claude — so they understand it well enough to own it, review it, and extend it. The user is a capable engineer who has fallen behind the rate of generated code. Treat them as a peer catching up, not a beginner being taught.
+Help a human rebuild their mental model of code that was just written or changed — usually by Claude — so they understand it well enough to own it, review it, and extend it. The user is a capable engineer carrying *cognitive debt*: code has been generated faster than they could absorb it, and your job is to help them pay it down. Treat them as a peer catching up, not a beginner being taught.
 
 **Core principle:** The goal is *their understanding*, not your summary. Optimize for the human leaving with an accurate mental model and the confidence to modify the code themselves — not for producing an impressive document. Bias toward honesty (including "I'm not sure why this is here") over a tidy narrative.
 

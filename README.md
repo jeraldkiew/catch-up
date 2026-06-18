@@ -2,7 +2,7 @@
 
 A [Claude Code](https://claude.com/claude-code) skill that helps a human engineer rebuild their mental model of code that was just written or changed — usually by Claude — so they stay in control of code they didn't type.
 
-As more code gets generated, it's easy to fall behind the rate of change. This skill turns "I lost track of what you did" into a guided, interactive walkthrough.
+As more code gets generated than you can absorb, you take on *cognitive debt* — a widening gap between what the code does and what you actually understand. This skill helps you pay it down: it turns "I lost track of what you did" into a guided, interactive walkthrough.
 
 ## What it does
 
